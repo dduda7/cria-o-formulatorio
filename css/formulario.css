@@ -73,3 +73,16 @@ select {
     margin-top: 20px;
     font-size: 12px;
 }
+
+a {
+    display: block;
+    text-align: center;
+    color: #FFBE46;
+    text-decoration: none;
+    margin-bottom: 20px;
+}
+
+a:hover {
+    color: #CD0000;
+    text-decoration: underline;
+}
